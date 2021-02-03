@@ -1,0 +1,1513 @@
+<?xml version="1.0"?>
+<EventLog ver="1">
+  <Event time="Fri Jan 29 13:34:19 2021" type="Info" TID="7ddc" thread="unnamed">
+      Logging enabled via ArcMon.
+  </Event>
+  <Event time="Fri Jan 29 13:34:24 2021" type="Info" TID="7774" thread="Main CIM worker thread">
+      EditingService.DoOperation
+  </Event>
+  <Event time="Fri Jan 29 13:34:24 2021" type="Info" TID="7774" thread="Main CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:34:24 2021" type="Info" TID="7774" thread="Main CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:34:24 2021" type="Info" TID="7774" thread="Main CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:34:24 2021" type="Info" TID="7774" thread="Main CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:34:24 2021" type="Info" TID="7774" thread="Main CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:34:24 2021" type="Info" TID="7774" thread="Main CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:34:31 2021" type="Info" TID="7774" thread="Main CIM worker thread">
+      Attribute rule executed: {"Class name":"pointClass","GlobalID":"{5C165C8D-BE5A-4CFC-B934-EC440FBB97F6}","Rule name":"rule1","Rule type":"Calculation","Expression Result":"0","Elapsed Time":6.9586331000000001}
+  </Event>
+  <Event time="Fri Jan 29 13:34:31 2021" type="Info" TID="7774" thread="Main CIM worker thread">
+      Attribute rule execution complete: {"Class name":"pointClass","GlobalID":"{5C165C8D-BE5A-4CFC-B934-EC440FBB97F6}","Rule name":"rule1","Arcade Evaluation Time:":6.9586331000000001,"Elapsed Time":6.9588751000000002}
+  </Event>
+  <Event time="Fri Jan 29 13:34:31 2021" type="Info" TID="7774" thread="Main CIM worker thread">
+      Attribute rule executed: {"Class name":"pointClass","GlobalID":"{5C165C8D-BE5A-4CFC-B934-EC440FBB97F6}","Rule name":"rule2","Rule type":"Calculation","Expression Result":"8","Elapsed Time":9.9000000000000001e-06}
+  </Event>
+  <Event time="Fri Jan 29 13:34:31 2021" type="Info" TID="7774" thread="Main CIM worker thread">
+      Attribute rule execution complete: {"Class name":"pointClass","GlobalID":"{5C165C8D-BE5A-4CFC-B934-EC440FBB97F6}","Rule name":"rule2","Arcade Evaluation Time:":9.9000000000000001e-06,"Elapsed Time":0.0001427}
+  </Event>
+  <Event time="Fri Jan 29 13:34:31 2021" type="Info" TID="7774" thread="Main CIM worker thread">
+      Attribute rule executed: {"Class name":"pointClass","GlobalID":"{5C165C8D-BE5A-4CFC-B934-EC440FBB97F6}","Rule name":"rule3","Rule type":"Calculation","Expression Result":"3","Elapsed Time":7.6000000000000001e-06}
+  </Event>
+  <Event time="Fri Jan 29 13:34:31 2021" type="Info" TID="7774" thread="Main CIM worker thread">
+      Attribute rule execution complete: {"Class name":"pointClass","GlobalID":"{5C165C8D-BE5A-4CFC-B934-EC440FBB97F6}","Rule name":"rule3","Arcade Evaluation Time:":7.6000000000000001e-06,"Elapsed Time":0.0001295}
+  </Event>
+  <Event time="Fri Jan 29 13:34:31 2021" type="Info" TID="7774" thread="Main CIM worker thread">
+      EditingService.DoOperation succeeded
+  </Event>
+  <Event time="Fri Jan 29 13:34:31 2021" type="Info" TID="1158" thread="Aux CIM worker thread" function="Map.Draw" code="Layer.DrawBegin" elapsed="0">
+      Beginning of layer draw: pointClass
+  </Event>
+  <Event time="Fri Jan 29 13:34:31 2021" type="Info" TID="1158" thread="Aux CIM worker thread" function="Map.Draw" code="FeatureLayer.Draw.Rendering" elapsed="1">
+      Execute Query
+  </Event>
+  <Event time="Fri Jan 29 13:34:31 2021" type="Info" TID="1158" thread="Aux CIM worker thread" function="Map.Draw" code="FeatureLayer.Draw.Rendering" elapsed="0">
+      Symbolizing
+  </Event>
+  <Event time="Fri Jan 29 13:34:31 2021" type="Info" TID="1158" thread="Aux CIM worker thread" function="Map.Draw" code="FeatureLayer.Draw.Rendering" elapsed="0">
+      Data Access
+  </Event>
+  <Event time="Fri Jan 29 13:34:31 2021" type="Info" TID="1158" thread="Aux CIM worker thread" function="Map.Draw" code="FeatureLayer.Draw.Rendering" elapsed="0">
+      Updating Labeling Feature Cache
+  </Event>
+  <Event time="Fri Jan 29 13:34:31 2021" type="Info" TID="1158" thread="Aux CIM worker thread" function="Map.Draw" code="FeatureLayer.Draw.Rendering" elapsed="0">
+      Symbol Drawing (Batch)
+  </Event>
+  <Event time="Fri Jan 29 13:34:31 2021" type="Info" TID="1158" thread="Aux CIM worker thread" function="Map.Draw" code="FeatureLayer.Draw.Rendering" elapsed="0">
+      Symbol Drawing (Batch), Update Labeling Feature Cache
+  </Event>
+  <Event time="Fri Jan 29 13:34:31 2021" type="Info" TID="1158" thread="Aux CIM worker thread" function="Map.Draw" code="FeatureLayer.Draw.Symbols" elapsed="0">
+      Symbol Drawing
+  </Event>
+  <Event time="Fri Jan 29 13:34:31 2021" type="Info" TID="1158" thread="Aux CIM worker thread" function="Map.Draw" code="FeatureLayer.Draw.FeatureCount" elapsed="0">
+      Number of features drawn: 0
+  </Event>
+  <Event time="Fri Jan 29 13:34:31 2021" type="Info" TID="1158" thread="Aux CIM worker thread" function="Map.Draw" code="Layer.DrawEnd" elapsed="1">
+      End of layer draw: pointClass 
+  </Event>
+  <Event time="Fri Jan 29 13:34:31 2021" type="Info" TID="1158" thread="Aux CIM worker thread" function="Map.Draw" code="FeatureLayer.Selection.DrawBegin" elapsed="0">
+      Beginning of Selection Phase
+  </Event>
+  <Event time="Fri Jan 29 13:34:31 2021" type="Info" TID="48d4" thread="Aux CIM worker thread" function="Map.Draw" code="FeatureLayer.Selection.DrawBegin" elapsed="0">
+      Beginning of Selection Phase
+  </Event>
+  <Event time="Fri Jan 29 13:34:31 2021" type="Info" TID="1158" thread="Aux CIM worker thread" function="Map.Draw" code="Layer.DrawBegin" elapsed="0">
+      Beginning of layer draw: pointClass
+  </Event>
+  <Event time="Fri Jan 29 13:34:31 2021" type="Info" TID="48d4" thread="Aux CIM worker thread" function="Map.Draw" code="Layer.DrawBegin" elapsed="0">
+      Beginning of layer draw: World Hillshade
+  </Event>
+  <Event time="Fri Jan 29 13:34:31 2021" type="Info" TID="48d4" thread="Aux CIM worker thread" function="Map.Draw" code="Layer.DrawEnd" elapsed="0">
+      End of layer draw: World Hillshade 
+  </Event>
+  <Event time="Fri Jan 29 13:34:31 2021" type="Info" TID="48d4" thread="Aux CIM worker thread" function="Map.Draw" code="Layer.DrawBegin" elapsed="0">
+      Beginning of layer draw: World Hillshade
+  </Event>
+  <Event time="Fri Jan 29 13:34:31 2021" type="Info" TID="48d4" thread="Aux CIM worker thread" function="Map.Draw" code="Layer.DrawEnd" elapsed="0">
+      End of layer draw: World Hillshade 
+  </Event>
+  <Event time="Fri Jan 29 13:34:31 2021" type="Info" TID="48d4" thread="Aux CIM worker thread" function="Map.Draw" code="FeatureLayer.Selection.DrawEnd" elapsed="0">
+      End of Selection Phase
+  </Event>
+  <Event time="Fri Jan 29 13:34:31 2021" type="Info" TID="1158" thread="Aux CIM worker thread" function="Map.Draw" code="FeatureLayer.Draw.Rendering" elapsed="2">
+      Execute Query
+  </Event>
+  <Event time="Fri Jan 29 13:34:31 2021" type="Info" TID="1158" thread="Aux CIM worker thread" function="Map.Draw" code="FeatureLayer.Draw.Rendering" elapsed="0">
+      Symbolizing
+  </Event>
+  <Event time="Fri Jan 29 13:34:31 2021" type="Info" TID="1158" thread="Aux CIM worker thread" function="Map.Draw" code="FeatureLayer.Draw.Rendering" elapsed="0">
+      Data Access
+  </Event>
+  <Event time="Fri Jan 29 13:34:31 2021" type="Info" TID="1158" thread="Aux CIM worker thread" function="Map.Draw" code="FeatureLayer.Draw.Rendering" elapsed="0">
+      Updating Labeling Feature Cache
+  </Event>
+  <Event time="Fri Jan 29 13:34:31 2021" type="Info" TID="1158" thread="Aux CIM worker thread" function="Map.Draw" code="FeatureLayer.Draw.Symbols" elapsed="3">
+      Symbol Drawing
+  </Event>
+  <Event time="Fri Jan 29 13:34:31 2021" type="Info" TID="1158" thread="Aux CIM worker thread" function="Map.Draw" code="FeatureLayer.Draw.FeatureCount" elapsed="0">
+      Number of features drawn: 1
+  </Event>
+  <Event time="Fri Jan 29 13:34:31 2021" type="Info" TID="1158" thread="Aux CIM worker thread" function="Map.Draw" code="Layer.DrawEnd" elapsed="12">
+      End of layer draw: pointClass 
+  </Event>
+  <Event time="Fri Jan 29 13:34:31 2021" type="Info" TID="1158" thread="Aux CIM worker thread" function="Map.Draw" code="Layer.DrawBegin" elapsed="0">
+      Beginning of layer draw: pointClass
+  </Event>
+  <Event time="Fri Jan 29 13:34:31 2021" type="Info" TID="1158" thread="Aux CIM worker thread" function="Map.Draw" code="Layer.DrawEnd" elapsed="0">
+      End of layer draw: pointClass 
+  </Event>
+  <Event time="Fri Jan 29 13:34:31 2021" type="Info" TID="1158" thread="Aux CIM worker thread" function="Map.Draw" code="FeatureLayer.Selection.DrawEnd" elapsed="12">
+      End of Selection Phase
+  </Event>
+  <Event time="Fri Jan 29 13:35:36 2021" type="Info" TID="7774" thread="Main CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:35:36 2021" type="Info" TID="7774" thread="Main CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:35:36 2021" type="Info" TID="7774" thread="Main CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:35:36 2021" type="Info" TID="7774" thread="Main CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:35:36 2021" type="Info" TID="48d4" thread="Aux CIM worker thread" function="Map.Draw" code="FeatureLayer.Selection.DrawBegin" elapsed="0">
+      Beginning of Selection Phase
+  </Event>
+  <Event time="Fri Jan 29 13:35:36 2021" type="Info" TID="7fe8" thread="Aux CIM worker thread" function="Map.Draw" code="FeatureLayer.Selection.DrawBegin" elapsed="0">
+      Beginning of Selection Phase
+  </Event>
+  <Event time="Fri Jan 29 13:35:36 2021" type="Info" TID="48d4" thread="Aux CIM worker thread" function="Map.Draw" code="Layer.DrawBegin" elapsed="0">
+      Beginning of layer draw: World Hillshade
+  </Event>
+  <Event time="Fri Jan 29 13:35:36 2021" type="Info" TID="7fe8" thread="Aux CIM worker thread" function="Map.Draw" code="Layer.DrawBegin" elapsed="0">
+      Beginning of layer draw: pointClass
+  </Event>
+  <Event time="Fri Jan 29 13:35:36 2021" type="Info" TID="48d4" thread="Aux CIM worker thread" function="Map.Draw" code="Layer.DrawEnd" elapsed="0">
+      End of layer draw: World Hillshade 
+  </Event>
+  <Event time="Fri Jan 29 13:35:36 2021" type="Info" TID="7fe8" thread="Aux CIM worker thread" function="Map.Draw" code="Layer.DrawEnd" elapsed="0">
+      End of layer draw: pointClass 
+  </Event>
+  <Event time="Fri Jan 29 13:35:36 2021" type="Info" TID="48d4" thread="Aux CIM worker thread" function="Map.Draw" code="Layer.DrawBegin" elapsed="0">
+      Beginning of layer draw: World Hillshade
+  </Event>
+  <Event time="Fri Jan 29 13:35:36 2021" type="Info" TID="7fe8" thread="Aux CIM worker thread" function="Map.Draw" code="Layer.DrawBegin" elapsed="0">
+      Beginning of layer draw: pointClass
+  </Event>
+  <Event time="Fri Jan 29 13:35:36 2021" type="Info" TID="48d4" thread="Aux CIM worker thread" function="Map.Draw" code="Layer.DrawEnd" elapsed="0">
+      End of layer draw: World Hillshade 
+  </Event>
+  <Event time="Fri Jan 29 13:35:36 2021" type="Info" TID="7fe8" thread="Aux CIM worker thread" function="Map.Draw" code="Layer.DrawEnd" elapsed="0">
+      End of layer draw: pointClass 
+  </Event>
+  <Event time="Fri Jan 29 13:35:36 2021" type="Info" TID="48d4" thread="Aux CIM worker thread" function="Map.Draw" code="FeatureLayer.Selection.DrawEnd" elapsed="0">
+      End of Selection Phase
+  </Event>
+  <Event time="Fri Jan 29 13:35:36 2021" type="Info" TID="7fe8" thread="Aux CIM worker thread" function="Map.Draw" code="FeatureLayer.Selection.DrawEnd" elapsed="0">
+      End of Selection Phase
+  </Event>
+  <Event time="Fri Jan 29 13:35:36 2021" type="Info" TID="48d4" thread="Aux CIM worker thread" function="Map.Draw" code="FeatureLayer.Selection.DrawBegin" elapsed="0">
+      Beginning of Selection Phase
+  </Event>
+  <Event time="Fri Jan 29 13:35:36 2021" type="Info" TID="48d4" thread="Aux CIM worker thread" function="Map.Draw" code="Layer.DrawBegin" elapsed="0">
+      Beginning of layer draw: pointClass
+  </Event>
+  <Event time="Fri Jan 29 13:35:36 2021" type="Info" TID="48d4" thread="Aux CIM worker thread" function="Map.Draw" code="Layer.DrawEnd" elapsed="52">
+      End of layer draw: pointClass 
+  </Event>
+  <Event time="Fri Jan 29 13:35:36 2021" type="Info" TID="48d4" thread="Aux CIM worker thread" function="Map.Draw" code="Layer.DrawBegin" elapsed="0">
+      Beginning of layer draw: pointClass
+  </Event>
+  <Event time="Fri Jan 29 13:35:36 2021" type="Info" TID="48d4" thread="Aux CIM worker thread" function="Map.Draw" code="Layer.DrawEnd" elapsed="0">
+      End of layer draw: pointClass 
+  </Event>
+  <Event time="Fri Jan 29 13:35:36 2021" type="Info" TID="48d4" thread="Aux CIM worker thread" function="Map.Draw" code="FeatureLayer.Selection.DrawEnd" elapsed="52">
+      End of Selection Phase
+  </Event>
+  <Event time="Fri Jan 29 13:35:37 2021" type="Info" TID="78d8" thread="unnamed">
+      Refreshing TemplateList...
+  </Event>
+  <Event time="Fri Jan 29 13:35:37 2021" type="Info" TID="78d8" thread="unnamed">
+      Refreshing TemplateList...
+  </Event>
+  <Event time="Fri Jan 29 13:35:37 2021" type="Info" TID="78d8" thread="unnamed">
+      Refreshing TemplateList...
+  </Event>
+  <Event time="Fri Jan 29 13:35:39 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# OnPaneChanging_0 ReloadLocators=set to false
+  </Event>
+  <Event time="Fri Jan 29 13:35:39 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# OnPaneChanging_1 inPaneName=AttributeRulesPaneViewModel
+  </Event>
+  <Event time="Fri Jan 29 13:35:39 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# OnPaneChanging_2 outPaneName=MapPaneViewModel
+  </Event>
+  <Event time="Fri Jan 29 13:35:39 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# OnPaneChanging_4 ReloadLocators=set to true
+  </Event>
+  <Event time="Fri Jan 29 13:35:39 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# OnPaneChanging_100
+  </Event>
+  <Event time="Fri Jan 29 13:35:39 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# OnMapChangedEvent_0
+  </Event>
+  <Event time="Fri Jan 29 13:35:39 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# OnMapChangedEvent_1
+  </Event>
+  <Event time="Fri Jan 29 13:35:39 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# OnMapChangedEvent_3 mapPath=
+  </Event>
+  <Event time="Fri Jan 29 13:35:39 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# SetMapPath_0 mapPath= ignorePath=False
+  </Event>
+  <Event time="Fri Jan 29 13:35:39 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# SetMapPath_2
+  </Event>
+  <Event time="Fri Jan 29 13:35:39 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# SetMapPath_3
+  </Event>
+  <Event time="Fri Jan 29 13:35:39 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# ReloadFindProvidersAsync_0 activate=False refresh=False
+  </Event>
+  <Event time="Fri Jan 29 13:35:39 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# IsFindProvidersReloadingRequired_0 refresh=False
+  </Event>
+  <Event time="Fri Jan 29 13:35:39 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# IsFindProvidersReloadingRequired_1 s_mapPath= mapPath=
+  </Event>
+  <Event time="Fri Jan 29 13:35:39 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# IsFindProvidersReloadingRequired_2
+  </Event>
+  <Event time="Fri Jan 29 13:35:39 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# SetMapPath_100
+  </Event>
+  <Event time="Fri Jan 29 13:35:39 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# OnMapChangedEvent_100
+  </Event>
+  <Event time="Fri Jan 29 13:35:39 2021" type="Info" TID="78d8" thread="unnamed">
+      Editor.ActivateMap(null)
+  </Event>
+  <Event time="Fri Jan 29 13:35:39 2021" type="Info" TID="78d8" thread="unnamed">
+      EditSessionChangedEvents.Publish()
+  </Event>
+  <Event time="Fri Jan 29 13:35:39 2021" type="Info" TID="78d8" thread="unnamed">
+      Close Dockpane 'esri_editing_CreateFeaturesDockPane'
+  </Event>
+  <Event time="Fri Jan 29 13:35:40 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# IsFindProvidersReloadingRequired_102 _previousPortalURL=https://utilitynetwork.esri.com/portal/ activePortalURL=https://utilitynetwork.esri.com/portal/ _previousUser=unadmin activeUser=unadmin _previousMapPath=CIMPATH=map/map.xml mapPath= _previousProjectID=0 projectId=0 _previousPaneGUID= paneGUID= refresh=False
+  </Event>
+  <Event time="Fri Jan 29 13:35:40 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# ReloadFindProvidersAsync_1
+  </Event>
+  <Event time="Fri Jan 29 13:35:40 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# ReloadFindProvidersAsync_2
+  </Event>
+  <Event time="Fri Jan 29 13:35:40 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# ReloadFindProvidersAsync_3
+  </Event>
+  <Event time="Fri Jan 29 13:35:40 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# ReloadFindProvidersAsync_4
+  </Event>
+  <Event time="Fri Jan 29 13:35:40 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# OnMapChangedEvent_0
+  </Event>
+  <Event time="Fri Jan 29 13:35:40 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# OnMapChangedEvent_3 mapPath=CIMPATH=map/map.xml
+  </Event>
+  <Event time="Fri Jan 29 13:35:40 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# SetMapPath_0 mapPath=CIMPATH=map/map.xml ignorePath=False
+  </Event>
+  <Event time="Fri Jan 29 13:35:40 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# SetMapPath_2
+  </Event>
+  <Event time="Fri Jan 29 13:35:40 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# SetMapPath_3
+  </Event>
+  <Event time="Fri Jan 29 13:35:40 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# ReloadFindProvidersAsync_0 activate=False refresh=False
+  </Event>
+  <Event time="Fri Jan 29 13:35:40 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# IsFindProvidersReloadingRequired_0 refresh=False
+  </Event>
+  <Event time="Fri Jan 29 13:35:40 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# IsFindProvidersReloadingRequired_1 s_mapPath=CIMPATH=map/map.xml mapPath=
+  </Event>
+  <Event time="Fri Jan 29 13:35:40 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# IsFindProvidersReloadingRequired_2
+  </Event>
+  <Event time="Fri Jan 29 13:35:40 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# SetMapPath_100
+  </Event>
+  <Event time="Fri Jan 29 13:35:40 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# OnMapChangedEvent_100
+  </Event>
+  <Event time="Fri Jan 29 13:35:40 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# OnActivePaneInitialized_0
+  </Event>
+  <Event time="Fri Jan 29 13:35:40 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# OnActivePaneInitialized_100
+  </Event>
+  <Event time="Fri Jan 29 13:35:40 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# IsFindProvidersReloadingRequired_102 _previousPortalURL=https://utilitynetwork.esri.com/portal/ activePortalURL=https://utilitynetwork.esri.com/portal/ _previousUser=unadmin activeUser=unadmin _previousMapPath= mapPath=CIMPATH=map/map.xml _previousProjectID=0 projectId=0 _previousPaneGUID= paneGUID= refresh=False
+  </Event>
+  <Event time="Fri Jan 29 13:35:40 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# ReloadFindProvidersAsync_1
+  </Event>
+  <Event time="Fri Jan 29 13:35:40 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# ReloadFindProvidersAsync_2
+  </Event>
+  <Event time="Fri Jan 29 13:35:40 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# ReloadFindProvidersAsync_3
+  </Event>
+  <Event time="Fri Jan 29 13:35:40 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# ReloadFindProvidersAsync_4
+  </Event>
+  <Event time="Fri Jan 29 13:35:40 2021" type="Info" TID="78d8" thread="unnamed">
+      Refreshing TemplateList...
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="7774" thread="Main CIM worker thread">
+      Open Dockpane 'esri_editing_CreateFeaturesDockPane'
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="1158" thread="Aux CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="48d4" thread="Aux CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="7fe8" thread="Aux CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="48d4" thread="Aux CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="7fe8" thread="Aux CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="48d4" thread="Aux CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="1158" thread="Aux CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="7fe8" thread="Aux CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="48d4" thread="Aux CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="1158" thread="Aux CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="48d4" thread="Aux CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="7fe8" thread="Aux CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="1158" thread="Aux CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="7fe8" thread="Aux CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="1158" thread="Aux CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="48d4" thread="Aux CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="7fe8" thread="Aux CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="1158" thread="Aux CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="7774" thread="Main CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="7774" thread="Main CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="7774" thread="Main CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="7774" thread="Main CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="7774" thread="Main CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="7774" thread="Main CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="7774" thread="Main CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="7774" thread="Main CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="7774" thread="Main CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="7774" thread="Main CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="2f48" thread="unnamed">
+      GC:# InitFindProvidersAsync_0 projectID=0 mapPath= activeUser=unadmin activePortalURL=https://utilitynetwork.esri.com/portal/ paneGUID= refresh=False
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="2f48" thread="unnamed">
+      GC:# InitFindProvidersAsync_4
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="2f48" thread="unnamed">
+      GC:# FinishInitialization_0
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="2f48" thread="unnamed">
+      GC:# FinishInitialization_1 cancel initiated in C#=true
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="2f48" thread="unnamed">
+      GC:# FinishInitialization_100
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="2f48" thread="unnamed">
+      GC:# InitFindProvidersAsync_5
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="2f48" thread="unnamed">
+      GC:# InitFindProvidersAsync_6 esri_mapping_findproviders_loaded=deactivate
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="2f48" thread="unnamed">
+      GC:# InitFindProvidersAsync_6
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="2f48" thread="unnamed">
+      GC:# ClearQueue_0
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="2f48" thread="unnamed">
+      GC:# ClearQueue_100
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="2f48" thread="unnamed">
+      GC:# InitFindProvidersAsync_7
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="2f48" thread="unnamed">
+      GC:# InitFindProvidersAsync_8
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="2f48" thread="unnamed">
+      GC:# InitFindProvidersAsync_9
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ CMapFindService::InitFindProviders projectID: 0, mapPathParam=, activeUser=unadmin, activePortalURL=https://utilitynetwork.esri.com/portal/, paneGUID=
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ CMapFindService::InitFindProviders <1>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ CMapFindService::InitFindProviders <2>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ FindSession::InitFindProviders projectID: 0, mapPath=, activeUser=unadmin, activePortalURL=https://utilitynetwork.esri.com/portal/, paneGUID=
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ FindSession::InitFindProviders <1>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::QueryConfigurations projectID: 0, mapPath=, portalUser=unadmin, portalURL=https://utilitynetwork.esri.com/portal/, paneGUID=
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::QueryConfigurations <7>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::QueryConfigurations <8>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::LoadConfigurationReason projectID: 0, mapPath=, portalUser=unadmin, portalURL=https://utilitynetwork.esri.com/portal/, paneGUID=
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::LoadConfigurationReason <4>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::LoadConfigurationReason <100>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::SetCurrentConfiguration <0>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::SetCurrentConfiguration m_ProjectID=0, m_mapPath=, m_portalUser=unadmin, m_portalUrl=https://utilitynetwork.esri.com/portal/, m_paneGUID=
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::IsCurrentConfiguration <0>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::IsCurrentConfiguration s_prevProjectID=0, pCfg->m_ProjectID=0, s_prevMapPath=CIMPATH=map/map.xml, pCfg->m_mapPath=, s_prevPortalUser=unadmin, pCfg->m_portalUser=unadmin, s_prevPortalURL=https://utilitynetwork.esri.com/portal/, pCfg->m_portalUrl=https://utilitynetwork.esri.com/portal/, s_prevPaneGUID=, pCfg->m_paneGUID=
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::IsCurrentConfiguration <100>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfiguration::ResetStatus projectId: 0, m_ProjectID=-1, mapPath=, m_mapPath=, portalUser=unadmin, m_portalUser=, portalUrl=https://utilitynetwork.esri.com/portal/, m_portalUrl=, paneGUID=, m_paneGUID=
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfiguration::ResetStatus <3>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfiguration::ResetStatus <100>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfiguration::ResetStatus projectId: 0, m_ProjectID=0, mapPath=, m_mapPath=, portalUser=unadmin, m_portalUser=unadmin, portalUrl=https://utilitynetwork.esri.com/portal/, m_portalUrl=https://utilitynetwork.esri.com/portal/, paneGUID=, m_paneGUID=
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfiguration::ResetStatus <1>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfiguration::ResetStatus <100>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfiguration::ResetStatus projectId: 0, m_ProjectID=0, mapPath=, m_mapPath=CIMPATH=map/map.xml, portalUser=unadmin, m_portalUser=unadmin, portalUrl=https://utilitynetwork.esri.com/portal/, m_portalUrl=https://utilitynetwork.esri.com/portal/, paneGUID=, m_paneGUID=
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfiguration::ResetStatus <2>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfiguration::ResetStatus <100>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::SetCurrentConfiguration <3>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::StoreConfigParameters s_prevProjectID=0, s_prevMapPath=, s_prevPortalUser=unadmin, s_prevPortalURL=https://utilitynetwork.esri.com/portal/, s_prevPaneGUID=
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::SetCurrentConfiguration <100>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::QueryConfigurations <11>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::GetPreviousFindConfiguration <0>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::GetFindConfigurationByStatus status: esriCfgPrevious
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::GetFindConfigurationByStatus <1>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::GetFindConfigurationByStatus <2>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::GetFindConfigurationByStatus <3>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfiguration::IsConfiguration m_status: esriCfgNotSet, status=esriCfgPrevious
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::GetFindConfigurationByStatus <2>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::GetFindConfigurationByStatus <3>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfiguration::IsConfiguration m_status: esriCfgCurrent, status=esriCfgPrevious
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::GetFindConfigurationByStatus <2>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::GetFindConfigurationByStatus <3>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfiguration::IsConfiguration m_status: esriCfgPrevious, status=esriCfgPrevious
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::GetFindConfigurationByStatus <4>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::GetFindConfigurationByStatus <5>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::GetFindConfigurationByStatus <100>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::QueryConfigurations <100>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ FindSession::InitFindProviders <2>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ FindSession::InitFindProviders <3>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ FindSession::InitFindProviders <4>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ FindSession::InitFindProviders <5>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ FindSession::InitFindProviders <6>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::StoreConfigParameters s_prevProjectID=0, s_prevMapPath=, s_prevPortalUser=unadmin, s_prevPortalURL=https://utilitynetwork.esri.com/portal/, s_prevPaneGUID=
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ FindSession::InitFindProviders <7>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ FindProvider::ReloadLocator <0>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ FindProvider::ReloadLocator <2>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ FindProvider::ReloadLocator <3>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# ReloadFindProvidersAsync_5
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ FindProvider::ReloadLocator <5>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# ShowLoadLocatorsProgressor_0 activate=False
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ FindProvider::ReloadLocator <6>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# ReloadFindProvidersAsync_6
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ FindProvider::ReloadLocator <0>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ FindProvider::ReloadLocator <2>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ FindProvider::ReloadLocator <3>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ FindProvider::ReloadLocator <5>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ FindProvider::ReloadLocator <6>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ FindSession::InitFindProviders <8>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::CompareFindConfigurations <0>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::CompareFindConfigurations <1>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::CompareFindConfigurations name: XY provider
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::CompareFindConfigurations <2>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::CompareFindConfigurations <1>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::CompareFindConfigurations name: https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/ArcGIS World Geocoding Service
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::CompareFindConfigurations <2>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::CompareFindConfigurations <5>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::CompareFindConfigurations <6>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::CompareFindConfigurations name2: XY provider
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::CompareFindConfigurations <6>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::CompareFindConfigurations name2: https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/ArcGIS World Geocoding Service
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::CompareFindConfigurations <100>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ FindSession::InitFindProviders <9>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ FindSession::InitFindProviders <12>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ FindSession::InitFindProviders <100>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ CMapFindService::InitFindProviders <3>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ CMapFindService::InitFindProviders <4>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ CMapFindService::InitFindProviders <5>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ CMapFindService::InitFindProviders <100>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ CMapFindService::SendProvidersLoadedCallback <100>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="7774" thread="Main CIM worker thread">
+      GC:# OnLoadedFindProviders_0
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="7774" thread="Main CIM worker thread">
+      GC:# OnLoadedFindProviders_1 findSession.ReloadReason=MapChanged
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="7774" thread="Main CIM worker thread">
+      GC:# OnLoadedFindProviders_100
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:# InitFindProvidersAsync_10
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:# InitFindProvidersAsync_11
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:# AddToQueueForProcessing_0 path= operation=loaded
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:# AddToQueueForProcessing_1
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:# AddToQueueForProcessing_2
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:# AddToQueueForProcessing_4
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:# AddToQueueForProcessing_5
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:# LocatorsLoadedNotification_0
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:# LocatorsLoadedNotification_1 esri_mapping_findproviders_loaded=activate
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:# Fetch_0
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:# Fetch_100
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:# LocatorsLoadedNotification_100
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:# AddToQueueForProcessing_100
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:# InitFindProvidersAsync_12
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:# InitFindProvidersAsync_100
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="3c0c" thread="unnamed">
+      GC:# InitFindProvidersAsync_0 projectID=0 mapPath=CIMPATH=map/map.xml activeUser=unadmin activePortalURL=https://utilitynetwork.esri.com/portal/ paneGUID= refresh=False
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="3c0c" thread="unnamed">
+      GC:# InitFindProvidersAsync_4
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="3c0c" thread="unnamed">
+      GC:# FinishInitialization_0
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="78d8" thread="unnamed">
+      UpdateHUD(-1)
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="3c0c" thread="unnamed">
+      GC:# FinishInitialization_1 cancel initiated in C#=true
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="3c0c" thread="unnamed">
+      GC:# FinishInitialization_100
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="3c0c" thread="unnamed">
+      GC:# InitFindProvidersAsync_5
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="3c0c" thread="unnamed">
+      GC:# InitFindProvidersAsync_6 esri_mapping_findproviders_loaded=deactivate
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="3c0c" thread="unnamed">
+      GC:# InitFindProvidersAsync_6
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="3c0c" thread="unnamed">
+      GC:# ClearQueue_0
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="3c0c" thread="unnamed">
+      GC:# ClearQueue_100
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="3c0c" thread="unnamed">
+      GC:# InitFindProvidersAsync_7
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="3c0c" thread="unnamed">
+      GC:# InitFindProvidersAsync_8
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ CMapFindService::InitFindProviders projectID: 0, mapPathParam=CIMPATH=map/map.xml, activeUser=unadmin, activePortalURL=https://utilitynetwork.esri.com/portal/, paneGUID=
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="3c0c" thread="unnamed">
+      GC:# InitFindProvidersAsync_9
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ CMapFindService::InitFindProviders <1>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ CMapFindService::InitFindProviders <2>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ FindSession::InitFindProviders projectID: 0, mapPath=CIMPATH=map/map.xml, activeUser=unadmin, activePortalURL=https://utilitynetwork.esri.com/portal/, paneGUID=
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ FindSession::InitFindProviders <1>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::QueryConfigurations projectID: 0, mapPath=CIMPATH=map/map.xml, portalUser=unadmin, portalURL=https://utilitynetwork.esri.com/portal/, paneGUID=
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::QueryConfigurations <7>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::QueryConfigurations <8>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::LoadConfigurationReason projectID: 0, mapPath=CIMPATH=map/map.xml, portalUser=unadmin, portalURL=https://utilitynetwork.esri.com/portal/, paneGUID=
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::LoadConfigurationReason <4>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::LoadConfigurationReason <100>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::SetCurrentConfiguration <0>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::SetCurrentConfiguration m_ProjectID=0, m_mapPath=CIMPATH=map/map.xml, m_portalUser=unadmin, m_portalUrl=https://utilitynetwork.esri.com/portal/, m_paneGUID=
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::IsCurrentConfiguration <0>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::IsCurrentConfiguration s_prevProjectID=0, pCfg->m_ProjectID=0, s_prevMapPath=, pCfg->m_mapPath=CIMPATH=map/map.xml, s_prevPortalUser=unadmin, pCfg->m_portalUser=unadmin, s_prevPortalURL=https://utilitynetwork.esri.com/portal/, pCfg->m_portalUrl=https://utilitynetwork.esri.com/portal/, s_prevPaneGUID=, pCfg->m_paneGUID=
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::IsCurrentConfiguration <100>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfiguration::ResetStatus projectId: 0, m_ProjectID=-1, mapPath=CIMPATH=map/map.xml, m_mapPath=, portalUser=unadmin, m_portalUser=, portalUrl=https://utilitynetwork.esri.com/portal/, m_portalUrl=, paneGUID=, m_paneGUID=
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfiguration::ResetStatus <3>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfiguration::ResetStatus <100>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# ReloadFindProvidersAsync_5
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfiguration::ResetStatus projectId: 0, m_ProjectID=0, mapPath=CIMPATH=map/map.xml, m_mapPath=, portalUser=unadmin, m_portalUser=unadmin, portalUrl=https://utilitynetwork.esri.com/portal/, m_portalUrl=https://utilitynetwork.esri.com/portal/, paneGUID=, m_paneGUID=
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# ShowLoadLocatorsProgressor_0 activate=False
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfiguration::ResetStatus <2>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# ReloadFindProvidersAsync_6
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfiguration::ResetStatus <100>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfiguration::ResetStatus projectId: 0, m_ProjectID=0, mapPath=CIMPATH=map/map.xml, m_mapPath=CIMPATH=map/map.xml, portalUser=unadmin, m_portalUser=unadmin, portalUrl=https://utilitynetwork.esri.com/portal/, m_portalUrl=https://utilitynetwork.esri.com/portal/, paneGUID=, m_paneGUID=
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfiguration::ResetStatus <1>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfiguration::ResetStatus <100>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::SetCurrentConfiguration <3>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::StoreConfigParameters s_prevProjectID=0, s_prevMapPath=CIMPATH=map/map.xml, s_prevPortalUser=unadmin, s_prevPortalURL=https://utilitynetwork.esri.com/portal/, s_prevPaneGUID=
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::SetCurrentConfiguration <100>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::QueryConfigurations <11>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::GetPreviousFindConfiguration <0>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::GetFindConfigurationByStatus status: esriCfgPrevious
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::GetFindConfigurationByStatus <1>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::GetFindConfigurationByStatus <2>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::GetFindConfigurationByStatus <3>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfiguration::IsConfiguration m_status: esriCfgNotSet, status=esriCfgPrevious
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::GetFindConfigurationByStatus <2>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::GetFindConfigurationByStatus <3>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfiguration::IsConfiguration m_status: esriCfgPrevious, status=esriCfgPrevious
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::GetFindConfigurationByStatus <4>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::GetFindConfigurationByStatus <5>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::GetFindConfigurationByStatus <100>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::QueryConfigurations <100>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ FindSession::InitFindProviders <2>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ FindSession::InitFindProviders <3>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ FindSession::InitFindProviders <4>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ FindSession::InitFindProviders <5>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ FindSession::InitFindProviders <6>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::StoreConfigParameters s_prevProjectID=0, s_prevMapPath=CIMPATH=map/map.xml, s_prevPortalUser=unadmin, s_prevPortalURL=https://utilitynetwork.esri.com/portal/, s_prevPaneGUID=
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ FindSession::InitFindProviders <7>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ FindProvider::ReloadLocator <0>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ FindProvider::ReloadLocator <2>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ FindProvider::ReloadLocator <3>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ FindProvider::ReloadLocator <5>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ FindProvider::ReloadLocator <6>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ FindProvider::ReloadLocator <0>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ FindProvider::ReloadLocator <2>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ FindProvider::ReloadLocator <3>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ FindProvider::ReloadLocator <5>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ FindProvider::ReloadLocator <6>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ FindSession::InitFindProviders <8>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::CompareFindConfigurations <0>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::CompareFindConfigurations <1>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::CompareFindConfigurations name: XY provider
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::CompareFindConfigurations <2>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::CompareFindConfigurations <1>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::CompareFindConfigurations name: https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/ArcGIS World Geocoding Service
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::CompareFindConfigurations <2>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::CompareFindConfigurations <5>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::CompareFindConfigurations <6>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::CompareFindConfigurations name2: XY provider
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::CompareFindConfigurations <6>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::CompareFindConfigurations name2: https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/ArcGIS World Geocoding Service
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ MapFindConfigurationContainer::CompareFindConfigurations <100>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ FindSession::InitFindProviders <9>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ FindSession::InitFindProviders <12>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ FindSession::InitFindProviders <100>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ CMapFindService::InitFindProviders <3>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ CMapFindService::InitFindProviders <4>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ CMapFindService::InitFindProviders <5>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ CMapFindService::InitFindProviders <100>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:++ CMapFindService::SendProvidersLoadedCallback <100>
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="7774" thread="Main CIM worker thread">
+      GC:# OnLoadedFindProviders_0
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="7774" thread="Main CIM worker thread">
+      GC:# OnLoadedFindProviders_1 findSession.ReloadReason=MapChanged
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="7774" thread="Main CIM worker thread">
+      GC:# OnLoadedFindProviders_100
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:# InitFindProvidersAsync_10
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:# InitFindProvidersAsync_11
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:# AddToQueueForProcessing_0 path= operation=loaded
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:# AddToQueueForProcessing_1
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:# AddToQueueForProcessing_2
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:# AddToQueueForProcessing_4
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:# AddToQueueForProcessing_5
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:# LocatorsLoadedNotification_0
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:# LocatorsLoadedNotification_1 esri_mapping_findproviders_loaded=activate
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:# Fetch_0
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:# Fetch_100
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:# LocatorsLoadedNotification_100
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:# AddToQueueForProcessing_100
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:# InitFindProvidersAsync_12
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="6234" thread="Shared Utility Thread 13">
+      GC:# InitFindProvidersAsync_100
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="7774" thread="Main CIM worker thread">
+      Refreshing TemplateList...
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# ShowLoadLocatorsProgressor_101
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# ReloadFindProvidersAsync_100
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# ShowLoadLocatorsProgressor_101
+  </Event>
+  <Event time="Fri Jan 29 13:35:41 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# ReloadFindProvidersAsync_100
+  </Event>
+  <Event time="Fri Jan 29 13:38:34 2021" type="Info" TID="7774" thread="Main CIM worker thread">
+      Getting Template Snapshot!
+  </Event>
+  <Event time="Fri Jan 29 13:46:57 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# OnPaneChanging_0 ReloadLocators=set to false
+  </Event>
+  <Event time="Fri Jan 29 13:46:57 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# OnPaneChanging_1 inPaneName=MapPaneViewModel
+  </Event>
+  <Event time="Fri Jan 29 13:46:57 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# OnPaneChanging_2 outPaneName=AttributeRulesPaneViewModel
+  </Event>
+  <Event time="Fri Jan 29 13:46:57 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# OnPaneChanging_4 ReloadLocators=set to true
+  </Event>
+  <Event time="Fri Jan 29 13:46:57 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# OnPaneChanging_100
+  </Event>
+  <Event time="Fri Jan 29 13:46:57 2021" type="Info" TID="78d8" thread="unnamed">
+      Editor.ActivateMap(CIMPATH=map/map.xml)
+  </Event>
+  <Event time="Fri Jan 29 13:46:57 2021" type="Info" TID="78d8" thread="unnamed">
+      EditSessionChangedEvents.Publish()
+  </Event>
+  <Event time="Fri Jan 29 13:46:57 2021" type="Info" TID="78d8" thread="unnamed">
+      UpdateHUD(0)
+  </Event>
+  <Event time="Fri Jan 29 13:46:57 2021" type="Info" TID="78d8" thread="unnamed">
+      Close Dockpane 'esri_editing_CreateFeaturesDockPane'
+  </Event>
+  <Event time="Fri Jan 29 13:46:57 2021" type="Info" TID="7774" thread="Main CIM worker thread">
+      Open Dockpane 'esri_editing_CreateFeaturesDockPane'
+  </Event>
+  <Event time="Fri Jan 29 13:46:57 2021" type="Info" TID="1158" thread="Aux CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:46:57 2021" type="Info" TID="7fe8" thread="Aux CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:46:57 2021" type="Info" TID="48d4" thread="Aux CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:46:57 2021" type="Info" TID="1158" thread="Aux CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:46:57 2021" type="Info" TID="7fe8" thread="Aux CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:46:57 2021" type="Info" TID="48d4" thread="Aux CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:46:57 2021" type="Info" TID="7fe8" thread="Aux CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:46:57 2021" type="Info" TID="1158" thread="Aux CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:46:57 2021" type="Info" TID="48d4" thread="Aux CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:46:57 2021" type="Info" TID="7fe8" thread="Aux CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:46:57 2021" type="Info" TID="1158" thread="Aux CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:46:57 2021" type="Info" TID="48d4" thread="Aux CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:46:57 2021" type="Info" TID="7fe8" thread="Aux CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:46:57 2021" type="Info" TID="1158" thread="Aux CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:46:57 2021" type="Info" TID="7fe8" thread="Aux CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:46:57 2021" type="Info" TID="48d4" thread="Aux CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:46:57 2021" type="Info" TID="1158" thread="Aux CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:46:57 2021" type="Info" TID="48d4" thread="Aux CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:46:57 2021" type="Info" TID="7774" thread="Main CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:46:57 2021" type="Info" TID="7774" thread="Main CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:46:57 2021" type="Info" TID="7774" thread="Main CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:46:57 2021" type="Info" TID="7774" thread="Main CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:46:57 2021" type="Info" TID="7774" thread="Main CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:46:57 2021" type="Info" TID="7774" thread="Main CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:46:57 2021" type="Info" TID="7774" thread="Main CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:46:57 2021" type="Info" TID="7774" thread="Main CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:46:57 2021" type="Info" TID="7774" thread="Main CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:46:57 2021" type="Info" TID="7774" thread="Main CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 13:46:57 2021" type="Info" TID="7774" thread="Main CIM worker thread">
+      Refreshing TemplateList...
+  </Event>
+  <Event time="Fri Jan 29 13:46:57 2021" type="Info" TID="78d8" thread="unnamed">
+      Refreshing TemplateList...
+  </Event>
+  <Event time="Fri Jan 29 13:48:35 2021" type="Info" TID="7774" thread="Main CIM worker thread">
+      Getting Template Snapshot!
+  </Event>
+  <Event time="Fri Jan 29 14:12:09 2021" type="Info" TID="7fe8" thread="Aux CIM worker thread" function="Map.Draw" code="FeatureLayer.Selection.DrawBegin" elapsed="0">
+      Beginning of Selection Phase
+  </Event>
+  <Event time="Fri Jan 29 14:12:09 2021" type="Info" TID="7fe8" thread="Aux CIM worker thread" function="Map.Draw" code="Layer.DrawBegin" elapsed="0">
+      Beginning of layer draw: pointClass
+  </Event>
+  <Event time="Fri Jan 29 14:12:09 2021" type="Info" TID="7fe8" thread="Aux CIM worker thread" function="Map.Draw" code="Layer.DrawEnd" elapsed="0">
+      End of layer draw: pointClass 
+  </Event>
+  <Event time="Fri Jan 29 14:12:09 2021" type="Info" TID="7fe8" thread="Aux CIM worker thread" function="Map.Draw" code="Layer.DrawBegin" elapsed="0">
+      Beginning of layer draw: pointClass
+  </Event>
+  <Event time="Fri Jan 29 14:12:09 2021" type="Info" TID="7fe8" thread="Aux CIM worker thread" function="Map.Draw" code="Layer.DrawEnd" elapsed="0">
+      End of layer draw: pointClass 
+  </Event>
+  <Event time="Fri Jan 29 14:12:09 2021" type="Info" TID="7fe8" thread="Aux CIM worker thread" function="Map.Draw" code="FeatureLayer.Selection.DrawEnd" elapsed="0">
+      End of Selection Phase
+  </Event>
+  <Event time="Fri Jan 29 14:12:09 2021" type="Info" TID="48d4" thread="Aux CIM worker thread" function="Map.Draw" code="FeatureLayer.Selection.DrawBegin" elapsed="0">
+      Beginning of Selection Phase
+  </Event>
+  <Event time="Fri Jan 29 14:12:09 2021" type="Info" TID="48d4" thread="Aux CIM worker thread" function="Map.Draw" code="Layer.DrawBegin" elapsed="0">
+      Beginning of layer draw: World Hillshade
+  </Event>
+  <Event time="Fri Jan 29 14:12:09 2021" type="Info" TID="48d4" thread="Aux CIM worker thread" function="Map.Draw" code="Layer.DrawEnd" elapsed="0">
+      End of layer draw: World Hillshade 
+  </Event>
+  <Event time="Fri Jan 29 14:12:09 2021" type="Info" TID="48d4" thread="Aux CIM worker thread" function="Map.Draw" code="Layer.DrawBegin" elapsed="0">
+      Beginning of layer draw: World Hillshade
+  </Event>
+  <Event time="Fri Jan 29 14:12:09 2021" type="Info" TID="48d4" thread="Aux CIM worker thread" function="Map.Draw" code="Layer.DrawEnd" elapsed="0">
+      End of layer draw: World Hillshade 
+  </Event>
+  <Event time="Fri Jan 29 14:12:09 2021" type="Info" TID="48d4" thread="Aux CIM worker thread" function="Map.Draw" code="FeatureLayer.Selection.DrawEnd" elapsed="0">
+      End of Selection Phase
+  </Event>
+  <Event time="Fri Jan 29 14:12:09 2021" type="Info" TID="78d8" thread="unnamed">
+      Refreshing TemplateList...
+  </Event>
+  <Event time="Fri Jan 29 14:13:36 2021" type="Info" TID="7774" thread="Main CIM worker thread">
+      Getting Template Snapshot!
+  </Event>
+  <Event time="Fri Jan 29 14:22:01 2021" type="Info" TID="1158" thread="Aux CIM worker thread" function="Map.Draw" code="FeatureLayer.Selection.DrawBegin" elapsed="0">
+      Beginning of Selection Phase
+  </Event>
+  <Event time="Fri Jan 29 14:22:01 2021" type="Info" TID="1158" thread="Aux CIM worker thread" function="Map.Draw" code="Layer.DrawBegin" elapsed="0">
+      Beginning of layer draw: pointClass
+  </Event>
+  <Event time="Fri Jan 29 14:22:01 2021" type="Info" TID="48d4" thread="Aux CIM worker thread" function="Map.Draw" code="FeatureLayer.Selection.DrawBegin" elapsed="0">
+      Beginning of Selection Phase
+  </Event>
+  <Event time="Fri Jan 29 14:22:01 2021" type="Info" TID="48d4" thread="Aux CIM worker thread" function="Map.Draw" code="Layer.DrawBegin" elapsed="0">
+      Beginning of layer draw: World Hillshade
+  </Event>
+  <Event time="Fri Jan 29 14:22:01 2021" type="Info" TID="48d4" thread="Aux CIM worker thread" function="Map.Draw" code="Layer.DrawEnd" elapsed="0">
+      End of layer draw: World Hillshade 
+  </Event>
+  <Event time="Fri Jan 29 14:22:01 2021" type="Info" TID="48d4" thread="Aux CIM worker thread" function="Map.Draw" code="Layer.DrawBegin" elapsed="0">
+      Beginning of layer draw: World Hillshade
+  </Event>
+  <Event time="Fri Jan 29 14:22:01 2021" type="Info" TID="48d4" thread="Aux CIM worker thread" function="Map.Draw" code="Layer.DrawEnd" elapsed="0">
+      End of layer draw: World Hillshade 
+  </Event>
+  <Event time="Fri Jan 29 14:22:01 2021" type="Info" TID="48d4" thread="Aux CIM worker thread" function="Map.Draw" code="FeatureLayer.Selection.DrawEnd" elapsed="0">
+      End of Selection Phase
+  </Event>
+  <Event time="Fri Jan 29 14:22:01 2021" type="Info" TID="1158" thread="Aux CIM worker thread" function="Map.Draw" code="Layer.DrawEnd" elapsed="55">
+      End of layer draw: pointClass 
+  </Event>
+  <Event time="Fri Jan 29 14:22:01 2021" type="Info" TID="1158" thread="Aux CIM worker thread" function="Map.Draw" code="Layer.DrawBegin" elapsed="0">
+      Beginning of layer draw: pointClass
+  </Event>
+  <Event time="Fri Jan 29 14:22:01 2021" type="Info" TID="1158" thread="Aux CIM worker thread" function="Map.Draw" code="Layer.DrawEnd" elapsed="0">
+      End of layer draw: pointClass 
+  </Event>
+  <Event time="Fri Jan 29 14:22:01 2021" type="Info" TID="1158" thread="Aux CIM worker thread" function="Map.Draw" code="FeatureLayer.Selection.DrawEnd" elapsed="55">
+      End of Selection Phase
+  </Event>
+  <Event time="Fri Jan 29 14:22:03 2021" type="Info" TID="78d8" thread="unnamed">
+      Editor.OnProjectClosing(...)
+  </Event>
+  <Event time="Fri Jan 29 14:22:03 2021" type="Info" TID="7774" thread="Main CIM worker thread">
+      EditingService.StopEditing(0, 0, -1, False)
+  </Event>
+  <Event time="Fri Jan 29 14:22:03 2021" type="Info" TID="7774" thread="Main CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 14:22:03 2021" type="Info" TID="7774" thread="Main CIM worker thread">
+      Editing HRESULT encountered in COMReadImpl.
+  </Event>
+  <Event time="Fri Jan 29 14:22:03 2021" type="Info" TID="78d8" thread="unnamed">
+      Editor.SetIsEditing(False)
+  </Event>
+  <Event time="Fri Jan 29 14:22:03 2021" type="Info" TID="78d8" thread="unnamed">
+      EditSessionChangedEvents.Publish()
+  </Event>
+  <Event time="Fri Jan 29 14:22:03 2021" type="Info" TID="78d8" thread="unnamed">
+      Editor.ActivateMap(null)
+  </Event>
+  <Event time="Fri Jan 29 14:22:03 2021" type="Info" TID="78d8" thread="unnamed">
+      EditSessionChangedEvents.Publish()
+  </Event>
+  <Event time="Fri Jan 29 14:22:04 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# OnMapChangedEvent_0
+  </Event>
+  <Event time="Fri Jan 29 14:22:04 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# OnMapChangedEvent_1
+  </Event>
+  <Event time="Fri Jan 29 14:22:04 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# OnMapChangedEvent_3 mapPath=
+  </Event>
+  <Event time="Fri Jan 29 14:22:04 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# SetMapPath_0 mapPath= ignorePath=False
+  </Event>
+  <Event time="Fri Jan 29 14:22:04 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# SetMapPath_2
+  </Event>
+  <Event time="Fri Jan 29 14:22:04 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# SetMapPath_3
+  </Event>
+  <Event time="Fri Jan 29 14:22:04 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# ReloadFindProvidersAsync_0 activate=False refresh=False
+  </Event>
+  <Event time="Fri Jan 29 14:22:04 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# IsFindProvidersReloadingRequired_0 refresh=False
+  </Event>
+  <Event time="Fri Jan 29 14:22:04 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# IsFindProvidersReloadingRequired_1 s_mapPath= mapPath=
+  </Event>
+  <Event time="Fri Jan 29 14:22:04 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# IsFindProvidersReloadingRequired_2
+  </Event>
+  <Event time="Fri Jan 29 14:22:04 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# SetMapPath_100
+  </Event>
+  <Event time="Fri Jan 29 14:22:04 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# OnMapChangedEvent_100
+  </Event>
+  <Event time="Fri Jan 29 14:22:04 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# OnPaneChanging_0 ReloadLocators=set to false
+  </Event>
+  <Event time="Fri Jan 29 14:22:04 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# OnPaneChanging_1 inPaneName=
+  </Event>
+  <Event time="Fri Jan 29 14:22:04 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# OnPaneChanging_2 outPaneName=MapPaneViewModel
+  </Event>
+  <Event time="Fri Jan 29 14:22:04 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# OnPaneChanging_3 ReloadLocators=set to true
+  </Event>
+  <Event time="Fri Jan 29 14:22:04 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# OnPaneChanging_100
+  </Event>
+  <Event time="Fri Jan 29 14:22:04 2021" type="Info" TID="78d8" thread="unnamed">
+      Editor.ActivateMap(null)
+  </Event>
+  <Event time="Fri Jan 29 14:22:04 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# OnViewUninitialized_0
+  </Event>
+  <Event time="Fri Jan 29 14:22:04 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# OnViewUninitialized_1
+  </Event>
+  <Event time="Fri Jan 29 14:22:04 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# OnViewUninitialized_2
+  </Event>
+  <Event time="Fri Jan 29 14:22:04 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# SetMapPath_0 mapPath= ignorePath=False
+  </Event>
+  <Event time="Fri Jan 29 14:22:04 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# SetMapPath_100
+  </Event>
+  <Event time="Fri Jan 29 14:22:04 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# OnViewUninitialized_100
+  </Event>
+  <Event time="Fri Jan 29 14:22:04 2021" type="Info" TID="37c" thread="Shared Utility Thread 10">
+      Time taken to download C:\Users\huss8228\AppData\Local\Temp\1\ArcGISProTemp33100\grp4F04.tmp File size 325
+      TimeProfiler: Time Elapsed : 0 hours 0 minutes 0 seconds 206 microseconds 206500 nanoseconds 
+  </Event>
+  <Event time="Fri Jan 29 14:22:04 2021" type="Info" TID="37c" thread="Shared Utility Thread 10">
+      Time taken to download C:\Users\huss8228\AppData\Local\Temp\1\ArcGISProTemp33100\acc4F44.tmp / File size unknown
+      TimeProfiler: Time Elapsed : 0 hours 0 minutes 0 seconds 242 microseconds 242700 nanoseconds 
+  </Event>
+  <Event time="Fri Jan 29 14:22:04 2021" type="Info" TID="78d8" thread="unnamed">
+      MapSwitchingManager.UnadviseMapSwitching
+  </Event>
+  <Event time="Fri Jan 29 14:22:04 2021" type="Info" TID="78d8" thread="unnamed">
+      Close Dockpane 'esri_editing_CreateFeaturesDockPane'
+  </Event>
+  <Event time="Fri Jan 29 14:22:04 2021" type="Info" TID="78d8" thread="unnamed">
+      Editor.OnProjectClosed()
+  </Event>
+  <Event time="Fri Jan 29 14:22:04 2021" type="Info" TID="37c" thread="Shared Utility Thread 10">
+      Time taken to download C:\Users\huss8228\AppData\Local\Temp\1\ArcGISProTemp33100\acc4F73.tmp / File size unknown
+      TimeProfiler: Time Elapsed : 0 hours 0 minutes 0 seconds 237 microseconds 237800 nanoseconds 
+  </Event>
+  <Event time="Fri Jan 29 14:22:04 2021" type="Info" TID="78d8" thread="unnamed">
+      EditingModule.CanUnload() == True
+  </Event>
+  <Event time="Fri Jan 29 14:22:04 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# IsFindProvidersReloadingRequired_101
+  </Event>
+  <Event time="Fri Jan 29 14:22:04 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# ReloadFindProvidersAsync_1
+  </Event>
+  <Event time="Fri Jan 29 14:22:04 2021" type="Info" TID="78d8" thread="unnamed">
+      GC:# ReloadFindProvidersAsync_100
+  </Event>
+  <Event time="Fri Jan 29 14:22:04 2021" type="Info" TID="78d8" thread="unnamed">
+      EditingModule.Uninitialize()
+  </Event>
+  <Event time="Fri Jan 29 14:22:04 2021" type="Info" TID="78d8" thread="unnamed">
+      EditingModule.ClearEditor()
+  </Event>
+  <Event time="Fri Jan 29 14:22:06 2021" type="Info" TID="368" thread="unnamed">
+      EditingModule finalizer...
+  </Event>
+  <PerformanceCounters>
+    <Counter name="CIM Read count">607</Counter>
+    <Counter name="CIM UI Read count">1085</Counter>
+    <Counter name="CIM UI Update count">69</Counter>
+    <Counter name="CIM Update count">0</Counter>
+    <Counter name="CIM total Task time (ms)">6969</Counter>
+    <Counter name="CIM total UI hang time (ms)">310062</Counter>
+    <Counter name="CIM total blocked time (ms)">4</Counter>
+    <Counter name="HTTP request cancellation count">0</Counter>
+    <Counter name="HTTP request count">114</Counter>
+    <Counter name="ProjectLoad:CreatePane_Instance1">1484</Counter>
+    <Counter name="ProjectLoad:CreatePane_Instance5">3750</Counter>
+    <Counter name="ProjectLoad:CreatePane_Instance6">1516</Counter>
+    <Counter name="ProjectLoad:InternalOpenMap">1110</Counter>
+    <Counter name="ProjectLoad:InternalOpenProjectAsync">3953</Counter>
+    <Counter name="Startup license initialization time (ms)">10949</Counter>
+    <Counter name="Startup local DLL count">96</Counter>
+    <Counter name="Startup memory usage (MB)">248</Counter>
+    <Counter name="Startup thread count">51</Counter>
+    <Counter name="Startup time (ms)">16585</Counter>
+    <Counter name="Startup total DLL count">257</Counter>
+    <Counter name="Startup:Initialization_complete">1922</Counter>
+    <Counter name="Startup:Initialize_and_process_DAML">982</Counter>
+    <Counter name="Startup:ShowWindow">388</Counter>
+    <Counter name="Total View construction time (ms)">1516</Counter>
+    <Counter name="Total request cancel count">12</Counter>
+    <Counter name="Total request count">1998</Counter>
+  </PerformanceCounters>
+</EventLog>
